@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CycWCdP42Yao1DWX8IUAKSgOAETAtgswJV8orvWRP9PwNXvCWiwbYF8MGO1kCSlYwHup7SY9Wl+vG1hwJlfzGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KirillMG\\OneDrive\\Рабочий стол\\Проекты\\Важные\\Snake\\Snake\\Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KirillMG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\KirillMG\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\KirillMG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\KirillMG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

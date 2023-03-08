@@ -1,0 +1,14 @@
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\bin\Release\net6.0\Snake.exe
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\bin\Release\net6.0\Snake.deps.json
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\bin\Release\net6.0\Snake.runtimeconfig.json
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\bin\Release\net6.0\Snake.dll
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\bin\Release\net6.0\ref\Snake.dll
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\bin\Release\net6.0\Snake.pdb
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\obj\Release\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\obj\Release\net6.0\Snake.AssemblyInfoInputs.cache
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\obj\Release\net6.0\Snake.AssemblyInfo.cs
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\obj\Release\net6.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\obj\Release\net6.0\Snake.dll
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\obj\Release\net6.0\ref\Snake.dll
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\obj\Release\net6.0\Snake.pdb
+C:\Users\KirillMG\OneDrive\Рабочий стол\2\Snake\Snake\obj\Release\net6.0\Snake.genruntimeconfig.cache
